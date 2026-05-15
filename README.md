@@ -108,6 +108,6 @@ Driver positions and sizes adjust dynamically based on active configuration — 
  
 ## Author
  
-Eduarda (Duda) [Last Name]  
-Computer Engineering, Brigham Young University  
-[your email] · [your LinkedIn] · [your GitHub]
+Duda Alves
+Computer Engineering, Brigham Young University
+[dudaliteracy@gmail.com] · [dudekass]
