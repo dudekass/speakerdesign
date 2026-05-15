@@ -30,8 +30,9 @@ The tool renders a live 3D model of the speaker that responds immediately to des
  
 ```
 maaleh-audio-studio/
-├── main.py            # Application launcher and main menu
-├── speaker_design.py  # Speaker Design Studio — full feature set
+├── main.py            
+├── speaker_design.py
+|–– speaker.py
 |–— requirements.txt
 └── README.md
 ```
